@@ -1,0 +1,18 @@
+1234a@5
+
+https://www.youtube.com/watch?v=GfZeLJfk3RQ
+
+https://github.com/etredal/Chess_App
+
+
+this->setStyleSheet("QLabel {background-color: rgb(0, 1,231 );}:hover{background-color: rgb(231,0,44);}");
+    else
+        this->setStyleSheet("QLabel {background-color: rgb(210, 255, 255);}:hover{background-color: rgb(231,0,44);}");
+
+
+
+
+if(this->Couleurcase)
+        this->setStyleSheet("QLabel {background-color: rgb(224, 109, 99);}:hover{background-color: rgb(174, 50, 160);}");
+    else
+        this->setStyleSheet("QLabel {background-color: rgb(115, 149, 127);}:hover{background-color: rgb(174, 50, 160);}");
