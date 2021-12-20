@@ -1,8 +1,7 @@
-1234a@5
+# Amine123Hayani
+# esisa
+#Projet 2 eme annee
 
-https://www.youtube.com/watch?v=GfZeLJfk3RQ
-
-https://github.com/etredal/Chess_App
 
 
 this->setStyleSheet("QLabel {background-color: rgb(0, 1,231 );}:hover{background-color: rgb(231,0,44);}");

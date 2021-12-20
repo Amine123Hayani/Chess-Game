@@ -1,4 +1,4 @@
-Bonsoir Mr j’espère que vous êtes bien , svp lors de l’exécution de mon projet de jeux d’échec  j’ai eu des problèmes de déplacement  des pièces 
+Bonsoir Mr j’espère que vous êtes bien , svp lors de l’exécution de mon projet de jeux d’échec  j’ai eu des problèmes de déplacement  des pièces ,
 Svp pouvez vous jeter un regard sur les mouvements des pièces , 
 Y-a-t-il un problème à ma logique de mouvement que j’ai réalisé
 Mes salutation. 
